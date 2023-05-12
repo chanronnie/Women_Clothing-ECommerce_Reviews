@@ -1,4 +1,4 @@
-# 👗👚🛍️Women-Clothing-E-commerce-Reviews 🛍️👟🚺
+# 👚🛍️Women-Clothing-E-commerce-Reviews 🛍️🚺
 In this project, I will conduct a `data analysis` on a Women's Clothing E-Commerce platform using the **Matplotlib** and **Seaborn** libraries in **Python**. Following this, I will perform a `sentiment analysis` on the product reviews using the **NLTK** package, **Logistic Regression**, **Random Forest Classifier** and **Naive Bayes**.
 
 # ❔About Dataset

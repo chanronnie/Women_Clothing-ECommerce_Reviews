@@ -1,4 +1,6 @@
 # Women Clothing-E Commerce Reviews
+![andy-hermawan-uFdCDgnoNVI-unsplash](https://github.com/chanronnie/Women_Clothing-ECommerce_Reviews/assets/121308347/b4c5a4a0-a385-48cf-9ad6-c3fae48fc8c1)
+
 In this project, I will conduct a `data analysis` on a Women's Clothing E-Commerce platform using the **Matplotlib** and **Seaborn** libraries in **Python**. Additionally, I will perform a `sentiment analysis` on the product reviews using the **NLTK** package, **Logistic Regression**, **Random Forest Classifier** and **Naive Bayes**.
 
 ## Table of Contents

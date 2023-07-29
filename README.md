@@ -11,7 +11,7 @@ In this project, I will conduct a `data analysis` on a Women's Clothing E-Commer
 
 ## About Dataset
 The dataset is taken from [Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews).
-The author has mentionned that the name of the E-commerce platform will not be disclosed.</br> 
+The author has mentionned that the name of the E-commerce platform will not be disclosed.
 To maintain the anonymity of the real-world shop, it is referred to as *"retailer"* in the dataset.</br>
 
 This dataset includes 23486 rows and 10 feature variables. Each row represents customer's purchase along with the review they posted on the E-commerce site.
